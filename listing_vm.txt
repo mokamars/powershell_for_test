@@ -1,0 +1,2 @@
+vm_name,vm_memory,vm_disk_c,vm_disk_d
+VMNAME,8000MB,52GB,55GB
